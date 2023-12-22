@@ -13,7 +13,7 @@ At the moment, my research interests include 1) interactive learning of task and
 
 Prior to my MSc, I got my Bachelor's in Mathematics during which I worked on lightweight computer vision models for facial expression recognition in the presence of drastic occlusion.
 
-Outside of my professional pursuits, I am trained in classical percussion, dramatics, and gymnastics. When inspired to, I write poems as well. My friends and I have a poetry [page](https://www.instagram.com/thehollowreed/?hl=en-gb) on Instagram.
+Outside of my professional pursuits, I am trained in classical percussion, dramatics, and gymnastics. When inspired to, I write poems as well. My friends and I run a poetry [page](https://www.instagram.com/thehollowreed/?hl=en-gb) on Instagram.
 
 ## News
 * 12/2023  Graduated from my MSc with Distinction; Achieved distinction for my final project on "Explanation and Axiom Learning in Ad Hoc Robot Teamwork".
