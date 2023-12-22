@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a predoctoral research associate with [Dr. Mohan Sridharan](https://www.cs.bham.ac.uk/~sridharm/index.html) at the Intelligent Robotics Lab in Birmingham, UK working on robot reasoning and interactive learning. I just completed my MSc at the University of Birmingham during which I worked on interactive learning and interpretability in robotics, and generative approaches to remove object occlusion in facial images. In early 2024, I will join the [Institute of Perception, Action and Behaviour](https://web.inf.ed.ac.uk/ipab), University of Edinburgh as a Research Associate. 
+I am a predoctoral research associate with [Dr. Mohan Sridharan](https://www.cs.bham.ac.uk/~sridharm/index.html) at the Intelligent Robotics Lab in Birmingham, UK, working on robot reasoning and interactive learning. I just completed my MSc at the University of Birmingham during which I worked on interactive learning and interpretability in robotics, and generative approaches to remove object occlusion in facial images. In early 2024, I will join the [Institute of Perception, Action and Behaviour](https://web.inf.ed.ac.uk/ipab), University of Edinburgh as a Research Associate. 
 
 At the moment, my research interests include 1) interactive learning of task and motion planning for multi-step tasks, 2) integrating prior symbolic knowledge with data-driven approaches, and 3) applications to exploration and rescue robots. Current robot learning and planning approaches face challenges with data-efficiency, generalizability, robustness, and interpretability. My work takes a neuro-symbolic approach to combine the strengths of commonsense knowledge and data-driven learning to address these issues. 
 
@@ -16,5 +16,5 @@ Prior to my MSc, I got my Bachelor's in Mathematics during which I worked on lig
 Outside of my professional pursuits, I am trained in classical percussion, dramatics, and gymnastics. When inspired to, I write poems as well. My friends and I have a poetry [page](https://www.instagram.com/thehollowreed/?hl=en-gb) on Instagram.
 
 ## News
-* 12/2023  Graduated from my MSc with Distinction; Achieved distinction in my final project as well.
+* 12/2023  Graduated from my MSc with Distinction; Achieved distinction for my final project on "Explanation and Axiom Learning in Ad Hoc Robot Teamwork".
 * 06/2023  Presented our paper on "Expression-Conditioned GAN for Masked Face Inpainting" at a CVPR workshop in-person at Vancouver.
