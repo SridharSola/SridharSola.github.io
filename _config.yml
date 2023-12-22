@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sridhar Sola"
-  avatar           : "profile1.png"
+  avatar           : "/images/profile1.png"
   bio              : "Predoctoral Robotics Research Associate"
   location         : "Birmingham, UK"
   #employer         :
