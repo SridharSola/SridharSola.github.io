@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 classes: wide
-date: April 30, 2023
+
 
 feature_row0-1:
   - image_path: images/exp.gif
