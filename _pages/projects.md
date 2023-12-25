@@ -70,3 +70,11 @@ feature_row0-4:
         - SQLite
         - OOP
 ---
+
+## Research Projects
+
+{% include feature_row id="feature_row0-1" type="left" %}
+<a name="Gifify AWS app"></a>
+{% include feature_row id="feature_row0-2" type="left" %}
+<a name="HWT game"></a>
+{% include feature_row id="feature_row0-3" type="left" %}
