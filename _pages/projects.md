@@ -6,22 +6,18 @@ author_profile: true
 
 
 feature_row0-1:
-  - image_path: assets/gif/gifify.gif
+  - image_path: images/exp.gif
     alt: "AWS app demo"
     title: "Gifify App"
-    text: "I developed a Gifify app where a user can upload a video and get it processed into a gif. This is a Flask app deployed to AWS EC2 instance. The user login data is saved into DynamoDB, while the users' uploaded videos and resulting gifs are stored on S3 buckets. The video processing is implemented through a Lambda function (deployed via Docker to ECS)."
-    url: "https://github.com/k-bosko/gifify"
+    text: "I extended a hybrid planning architecture, KAT, with explanation and online learning capabilities. The robot could answer human queries by tracing its beliefs and 'mental simulations' of counterfactual scenarios. By a combination of relational RL and decision tree induction, the robot could interactively learn unknown domain and task knowledge. I then demonstrated that online learning improved the robot's plans through improved explanations. I also discussed a philosophical grounding of 'explanation' in my thesis."
+    url: "https://github.com/SridharSola/Explanations-and-Learning"
     btn_label: "Code"
     btn_class: "btn--primary"
     tags:
-        - AWS
-        - Lambda
-        - S3
-        - EC2
-        - DynamoDB
-        - Flask
-        - ECS
-        - Docker
+        - Linux
+        - MALib
+        - Answer Set Prolog
+        - Python
 
 feature_row0-2:
   - image_path: assets/gif/wumpus.gif
