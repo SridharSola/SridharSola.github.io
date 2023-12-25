@@ -9,13 +9,10 @@ author_profile: true
 
 {% raw %}{% include feature_row id="feature_row0-1" type="left" %}
 
-- image_path: /images/exp.gif
+- image_path: /images/profile.png
   alt: Exp
   title: "Exp"
-  excerpt: "I developed a Gifify app where a user can upload a video..."  
-  url: "https://github.com/k-bosko/gifify"
-  btn_label: "Code"
-  btn_class: "btn--primary"
+  text: "I developed a Gifify app where a user can upload a video..."  
 
 {% endraw %}{% endraw %}
 
