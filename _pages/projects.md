@@ -15,8 +15,9 @@ feature_row0-1:
 
 ## Projects
 
-{% include feature_row id="feature_row0-1" type="left" %}
+{% raw %}{% include feature_row id="feature_row0-1" type="left" %}
 <a name="Exp"></a>
+{% endraw %}{% endraw %}
 
 
 ## Projects in Data Science
