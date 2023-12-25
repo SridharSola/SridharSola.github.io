@@ -26,7 +26,7 @@ feature_row0-1:
 
 ---
 
-## Projects in Computer Science
+## Projects
 
 {% include feature_row id="feature_row0-1" type="left" %}
 <a name="Exp"></a>
