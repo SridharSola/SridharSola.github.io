@@ -15,8 +15,6 @@ Prior to my MSc, I got my Bachelor's in Mathematics during which I worked on lig
 
 Outside of my professional pursuits, I am trained in classical percussion, dramatics, and gymnastics. When inspired to, I write poems as well. My friends and I run a poetry [page](https://www.instagram.com/thehollowreed/?hl=en-gb) on Instagram.
 
-![yup](/images/exp.gif)
-
 ## News
 * 12/2023  Graduated from my MSc with Distinction; Achieved distinction for my final project on "Explanation and Axiom Learning in Ad Hoc Robot Teamwork".
 * 06/2023  Presented our paper on "Expression-Conditioned GAN for Masked Face Inpainting" at a CVPR workshop in-person at Vancouver.
