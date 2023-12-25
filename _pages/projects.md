@@ -17,7 +17,7 @@ feature_row0-1:
 
 {% raw %}{% include feature_row id="feature_row0-1" type="left" %}
 <a name="Exp"></a>
-{% endraw %}{% endraw %}
+{% endraw %}
 
 
 ## Projects in Data Science
