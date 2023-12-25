@@ -3,7 +3,7 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
----
+
 
 feature_row0-1:
   - image_path: assets/gif/gifify.gif
@@ -73,3 +73,4 @@ feature_row0-4:
         - Python
         - SQLite
         - OOP
+---
