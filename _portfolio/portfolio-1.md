@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Explainable Robotics and Interactive Learning"
 excerpt: "Explanation and Axiom Learning<br/><img src='/images/exp.gif'>"
 collection: portfolio
 ---
