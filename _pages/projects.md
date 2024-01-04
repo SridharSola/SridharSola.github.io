@@ -20,3 +20,11 @@ I designed an expression-conditioned GAN for masked face inpainting. We embedded
 [Code](https://github.com/SridharSola/ECGAN){: .btn} [CVPRW'23](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/papers/Sola_Unmasking_Your_Expression_Expression-Conditioned_GAN_for_Masked_Face_Inpainting_CVPRW_2023_paper.pdf){: .btn}   <br><br><br><br>
       
 ---
+![image-left]({{ site.url }}{{ site.baseurl }}/images/MDP.png){: .align-left}  **Group Project: Multi-robot Table Waiting System** 
+
+We designed a MDP‑based solution for task allocation, system management, low‑level actuation, and collision avoidance in a simulated restaurant environment with robot
+waiters. We implemented a dynamic ordering module to simulate different demand periods for the restaurant, determining the optimal number of robots to minimize business expense and maintain customer satisfaction.
+
+[Code](https://github.com/SridharSola/Multi-Robot-Waiting-Robotics-Project){: .btn} <br><br><br>
+
+---
