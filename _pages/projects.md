@@ -25,6 +25,13 @@ I designed an expression-conditioned GAN for masked face inpainting. We embedded
 We designed a MDP‑based solution for task allocation, system management, low‑level actuation, and collision avoidance in a simulated restaurant environment with robot
 waiters. We implemented a dynamic ordering module to simulate different demand periods for the restaurant, determining the optimal number of robots to minimize business expense and maintain customer satisfaction.
 
-[Code](https://github.com/SridharSola/Multi-Robot-Waiting-Robotics-Project){: .btn} <br><br><br>
+[Code](https://github.com/SridharSola/MSD-E){: .btn} <br><br><br>
+
+---
+![image-left]({{ site.url }}{{ site.baseurl }}/images/ArchMSDE.png){: .align-left}  **Occluded Facial Expression Recognition** 
+
+We created the Masked Student Dataset of Expressions or MSD-E, consisting of 1,960 real-world non-masked and masked facial expression images collected from 142 individuals to train facial expression recognition models. We provided baseline results and tested two training paradigms: contrastive learning and knowledge distillation, and found that they increase the model’s performance in the masked scenario while maintaining its non-masked performance.
+
+[Code](https://github.com/SridharSola/Multi-Robot-Waiting-Robotics-Project){: .btn} [ICVGIP'22](https://dl.acm.org/doi/10.1145/3571600.3571608){: .btn} [BSc Thesis]({https://drive.google.com/file/d/1iqlnyDsnas9YITIm_dUTYWlmB_7zbevS/view?usp=sharing){: .btn} <br><br><br>
 
 ---
